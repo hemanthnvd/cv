@@ -1,0 +1,31 @@
+body {
+  background-color: #FEF9EF;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1 {
+  color: #3D0000;
+}
+
+h2 {
+  color: #C36A2D;
+}
+
+h3 {
+  color: #51050F;
+}
+
+.edu {
+  color: #082032;
+}
+
+.skill {
+  color: #334756;
+}
